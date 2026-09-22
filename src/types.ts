@@ -23,7 +23,7 @@ export interface CartItem {
     name: string;
     sell_price: number;
     buy_price: number;
-    stcok: number;
+    stock: number;
     qty: number;
 }
 
